@@ -1,0 +1,19 @@
+{
+  "name": "ai-bot-api",
+  "version": "1.0.0",
+  "description": "扣子ai接口",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "request": "^2.88.2"
+  }
+}
